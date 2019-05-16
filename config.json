@@ -1,0 +1,18 @@
+{
+	"logs": {
+		"types": ["debug", "info", "warn", "error"],
+		"files": {
+			"{AppPath}/info.log": ["debug", "info", "warn"],
+			"{AppPath}/error.log": ["error"],
+			"STDOUT": ["debug", "info", "warn"],
+			"STDERR": ["error"]
+		}
+	},
+	"mysql": {
+        "conn":"我是马赛克3"
+	},
+	"ci":{
+		"cisz":"我是马赛克1",
+		"cish":"我是马赛克2"
+	}
+}

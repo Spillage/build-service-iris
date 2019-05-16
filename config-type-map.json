@@ -1,0 +1,42 @@
+[
+	{
+		"typeId": "1",
+		"path":"/data0/app/jenkins/tmpl/sh-maven-config.xml"
+	},
+	{
+		"typeId": "2",
+		"path":"/data0/app/jenkins/tmpl/sh-node-config.xml"
+	},
+	{
+		"typeId": "3",
+		"path":"/data0/app/jenkins/tmpl/sh-gradle-config.xml"
+	},
+	{
+		"typeId": "8",
+		"path":"/data0/app/jenkins/tmpl/sh-golang-config.xml"
+	},
+	{
+		"typeId": "9",
+		"path":"/data0/app/jenkins/tmpl/sz-maven-config.xml"
+	},
+	{
+		"typeId": "10",
+		"path":"/data0/app/jenkins/tmpl/sz-node-config.xml"
+	},
+    {
+        "typeId": "11",
+        "path":"/data0/app/jenkins/tmpl/sz-gradle-config.xml"
+    },
+    {
+        "typeId": "12",
+        "path":"/data0/app/jenkins/tmpl/sz-python-config.xml"
+    },
+    {
+        "typeId": "13",
+        "path":"/data0/app/jenkins/tmpl/sh-python-config.xml"
+    },
+	{
+        "typeId": "14",
+        "path":"/data0/app/jenkins/tmpl/sh-golang-config.xml"
+    }
+]
